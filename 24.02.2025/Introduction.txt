@@ -1,0 +1,30 @@
+Mern Stack:
+- MongoDB
+- Express
+- React.js
+- Node.js
+
+Client -> React.js
+Server -> Express + node.js
+Database -> MongoDB
+
+Rendering engine: Check whether it is tag or word
+
+Tag:
+- Standalone: <br/>, <hr>
+    only opening tag
+- container: div, p, html, li, ol, audio, video, aside, etc.
+    opening and closing tag
+- Pre tag:
+
+
+Lorem ipsum: Randomly generated text
+
+Text: 
+- Block
+- Inline
+
+List:
+
+- Ordered List: <ol>
+- Unordered list: <ul>
